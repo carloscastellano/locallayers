@@ -1,0 +1,24 @@
+{
+  "url": {
+    "name": "locallayers",
+    "separator": "*"
+  },
+  "constructor": "M.plugin.LocalLayers",
+  "files": {
+    "ol": {
+      "scripts": "locallayers.ol.min.js",
+      "styles": "locallayers.min.css"
+    }
+  },
+  "metadata": {
+    "name": "locallayers",
+    "description": "capas locales",
+    "text": "Plugin de Mapea para la carga de capas locales.",
+    "version": "1.0.0",
+    "date": "",
+    "author": "",
+    "org": "",
+    "tags": "mapea,plugin",
+    "icon": "./facade/assets/icons/icons.svg"
+  }
+}
