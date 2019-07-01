@@ -15,9 +15,9 @@
     "description": "capas locales",
     "text": "Plugin de Mapea para la carga de capas locales.",
     "version": "1.0.0",
-    "date": "",
+    "date": "Jun 26, 2019",
     "author": "",
-    "org": "",
+    "org": "Instituto de Estadística y Cartografía",
     "tags": "mapea,plugin",
     "icon": "./facade/assets/icons/icons.svg"
   }
